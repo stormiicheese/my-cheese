@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://gist.githubusercontent.com/stormiicheese/9115f33ec9e66404c7c640ac1f5a06aa/raw/35f05c4b339fc2d820fb524eee7d6dc7af92d583/gistfile1.txt"))()
